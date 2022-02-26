@@ -1,0 +1,10 @@
+Name,Surname,Phone,Mobile,E-mail,Street,Number,Town,Zip
+Pete,Prattis,210123456,123456,pete@mail.com,Newstrt,1,Athens,1234
+Adam,Adams,210234567,123987,adam@mail.com,Oldstrt,21,London,5553
+Mary,Smith,21099999,999999,mary@mail.com,Thisstrt,9,Boston,5432
+Prashant Barge ,Barge,908767,987678,poijadn@google.com,koli nagar,89,polish,789
+Manvi,Saxena,05222467893,8934876749,manvisaxe@gmail.com,Naubasta,158,Lucknow,226003
+Kumari,Ankita,05227893361,8081837949,ankita2gmail.com,Naubasta,158,Lucknow,226003
+Vivek ,Modak,05222345671,9334111402,vivek1234@gmail.com,Mahanagar,57,Lucknow,226005
+Shivansh,Upadhyay,05227338331,9956557789,shivansh@gmail.com,Naubasta,55,Lucknow,226033
+prachi,singh,05223344669,9898989809,fdtyfuf@gmail.com,dthdyh,77,vjhvfj,67676
